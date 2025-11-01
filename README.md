@@ -1,2 +1,2 @@
 # reactjs-projects
-Collection of small React projects
+Collection of React projects
