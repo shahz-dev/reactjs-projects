@@ -1,6 +1,6 @@
 # React Project Using Essential React Concepts
 
-This React project showcased the essential React components like Components, States etc.
+This React project showcased the essential React concepts like Components, States etc.
 
 ## Components
 
